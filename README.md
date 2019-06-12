@@ -1,6 +1,3 @@
-# cloudacademyk8s
-cloud academy course on k8s
-
 # Setup
 To do a quick setup of k8s and access that in WSL on windows follow the steps [here](https://devkimchi.com/2018/06/05/running-kubernetes-on-wsl/)
 
