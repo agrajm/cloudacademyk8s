@@ -1,7 +1,7 @@
 # cloudacademyk8s
 cloud academy course on k8s
 
-#Setup
+# Setup
 To do a quick setup of k8s and access that in WSL on windows follow the steps [here](https://devkimchi.com/2018/06/05/running-kubernetes-on-wsl/)
 
 The k8s single node cluster installed via Docker for Desktop does not include the Kubernetes Dashboard by default but we can always deploy that on our cluster 
