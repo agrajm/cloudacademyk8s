@@ -13,5 +13,5 @@ To access the kubernetes-dashboard after switching the context
 ```
 kubectl get pod --namespace=kube-system | grep dashboard
 ```
-* create a service exposing the dashboard 
+* create a NodePort service similar to [this one](https://github.com/agrajm/cloudacademyk8s/blob/master/setup/dashboard-service.yaml) exposing the dashboard
 * To sign in to the dashboard follow the steps [here](https://github.com/kubernetes/dashboard/wiki/Access-control#introduction) to get a token 
